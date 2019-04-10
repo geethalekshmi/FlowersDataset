@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FlowersDataset</folder>
+	<filename>2.jpeg</filename>
+	<path>/home/pi/Desktop/FlowersDataset/2.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flower</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>2</ymin>
+			<xmax>267</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>
